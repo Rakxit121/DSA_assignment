@@ -20,6 +20,8 @@ package QNS;//b)	You are given an array of different words and target words. Eac
 import java.util.HashSet;
 import java.util.Set;
 
+//right\\
+
 public class Q6_b {
     private static final int[] POW_10 = new int[]{1, 10, 100, 1000, 10000, 100000, 1000000};
     public boolean isSolvable(String[] words, String result) {

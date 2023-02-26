@@ -2,6 +2,8 @@ package QNS;//  Q6 a)	Implement Huffman encoding and decoding.
 
 import java.util.*;
 
+//right\\
+
 //Huffman tree node
 class MinHeapNode{
     char data;

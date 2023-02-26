@@ -1,9 +1,23 @@
 package QNS;
 
+//5a)
+//You are given a 2D array containing coordinates and height of rectangle such that height[i]=[xi,yi,hi],
+// where xi the x coordinate of left edge, yi represents x coordinate of right edge of rectangle and
+// hi represents the height of the peaks of each rectangle. If you want to construct a border line over the
+// peaks of rectangle represented in bar chart, return the key coordinates required to build a border line
+// that contacts the peaks of the given chart.
+//Note: key points are the left coordinates of shape representing peaks where you need to draw boarder line.
+//
+//
+//Input: height={{1,4,10},{2,5,15},{5,8,12},{9,11,1},{11,13,15}}
+//Output: {{1,10},{2,15},{5,12},{8,0},{9,1},{11,15},{13,0}}
+
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 import java.util.PriorityQueue;
+
+//right\\
 
 public class Q5_a {
 
@@ -63,7 +77,7 @@ public class Q5_a {
         int[][] buildings = {{1,4,10},{2,5,15},{5,8,12},{9,11,1},{11,13,15}};
         Q5_a solution = new Q5_a();
         List<List<Integer>> skyline = solution.getSkyline(buildings);
-        System.out.println(skyline); // Output: [[1, 10], [2, 15], [5, 12], [8, 0], [9, 1], [11, 15], [13, 0]]
+        System.out.println(skyline);
     }
 
 

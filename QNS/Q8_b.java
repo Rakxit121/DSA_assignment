@@ -3,7 +3,7 @@ package QNS;//Given an array of even numbers sorted in ascending order and an in
 //Input a[] ={0, 2, 6, 18, 22} k=6
 
 
-//Wrong
+//Wrong\\
 
 
 public class Q8_b {
