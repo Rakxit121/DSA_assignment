@@ -4,6 +4,9 @@ package QNS;//Given 2D matrix of 1 and 0s. Using stack, find maximum area of squ
 //0 0 0 0 1
 //0 0 0 1 1
 //0 1 0 1 1
+//OUTPUT: 4
+
+//right\\
 
 public class Q8_a {
     public static int maxSquareArea(int[][] matrix) {
