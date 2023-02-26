@@ -3,7 +3,7 @@ package QNS;//a)	Implement multi-threaded algorithm to multiply n*n matrix.
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 
-//right\\
+
 
 public class Q7_a {
     public static void main(String[] args) {

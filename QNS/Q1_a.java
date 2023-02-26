@@ -15,7 +15,6 @@ package QNS;//Question 1 a)
 // take path 0,1,2,5 as it takes 15 min and violates time constraint which in 14 min.
 
 
-// wrong\\
 
 
 import java.util.*;

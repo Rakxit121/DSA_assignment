@@ -17,7 +17,7 @@ import java.util.Collections;
 import java.util.List;
 import java.util.PriorityQueue;
 
-//right\\
+
 
 public class Q5_a {
 

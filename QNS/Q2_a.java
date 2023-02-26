@@ -8,7 +8,6 @@ package QNS;
 //Input: values [3,2,6,6,4,7,12], edges= {{0,1}, {0,2}, {1,3}, {1,4}, {2,5}, {2,6}}
 //Output: {-1,0, -1, -1,0,2, -1}
 
-// right \\
 
 import java.util.Arrays;
 import java.util.HashMap;

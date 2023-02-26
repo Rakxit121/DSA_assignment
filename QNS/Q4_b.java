@@ -3,7 +3,7 @@ package QNS;
 // to sort an array in ascending order by eliminating elements at each step
 // Note: at each step remove element a[i] where a[i-1]> a[i]
 
-//right\\
+
 
 public class Q4_b {
 

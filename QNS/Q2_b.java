@@ -8,7 +8,6 @@ package QNS;
 //Explanation: Missing even numbers on the list are 4, 8, 10, 12, 14, 16, 20 and so on and
 // kth missing number is on 6th place of the list i.e. 16
 
-// wrong\\
 
 public class Q2_b {
     int res = 0;

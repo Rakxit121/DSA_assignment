@@ -5,7 +5,7 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.TreeMap;
 
-// right\\
+
 
 public class Q4_a {
 
